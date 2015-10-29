@@ -1,0 +1,23 @@
+name: cafe
+favicon: null
+layout_spectrum: 0.12178203999064863
+typography_spectrum: 0.4779708688147366
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6623049308545887
+  lightness: 0.7038035304285586
+  saturation: 0.3893066728487611
+  rhythmicContrast: 0.9518451974727213
+purpose: []
